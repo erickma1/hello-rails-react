@@ -46,7 +46,7 @@ Ruby on Rails, node, Visual Studia Code, WSL
 
 ### Setup <a name="setup"></a>
 
-In order to use this project.. Clone this repository to your desired folder by pasting this command in your command line interface:
+In order to use this project.. Clone this repository to your desired folder by pasting this command in your command line interface;
 
   https://github.com/erickma1/hello-rails-react
 
