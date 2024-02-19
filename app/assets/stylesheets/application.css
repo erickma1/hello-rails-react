@@ -14,35 +14,35 @@
  *= require_self
  */
 
- body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-  
-  #root {
-    padding: 2rem;
-    width: 300px;
-    height: 200px;
-    background-color: #fff;
-  
-    /* Add box shadow */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
-  }
-  
-  button {
-    /* Existing styles for the button */
-    padding: 10px 20px;
-    background-color: #3498db;
-    color: #fff;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-  
-    /* Add hover effect */
-    transition: background-color 0.3s ease;
-  }
-  
-  button:hover {
-    background-color: #2980b9;
-  }
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#root {
+  padding: 2rem;
+  width: 300px;
+  height: 200px;
+  background-color: #fff;
+
+  /* Add box shadow */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+button {
+  /* Existing styles for the button */
+  padding: 10px 20px;
+  background-color: #3498db;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+
+  /* Add hover effect */
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #2980b9;
+}
